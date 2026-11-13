@@ -1,0 +1,1 @@
+# Version 5 changes\n\n- Replaced the Signature Analysis service image that displayed Amitt's name.\n- New illustrative signature reads “Victory”, with a fountain pen visual.\n- All other Version 4 changes and the Google Sheets endpoint are preserved.\n
