@@ -2,14 +2,14 @@
 
 ## Part A — Create the sheet
 1. Sign in to the Google account where you want to own the leads.
-2. Create a blank Google Sheet and name it `The Digit Analysis - Enquiries`.
+2. Create a blank Google Sheet and name it `Digit Decode - Enquiries`.
 3. Rename the first tab to `Enquiries`.
 4. Keep this sheet private. Share it only with people who should see customer details.
 
 ## Part B — Add the Apps Script
 1. In the sheet, open **Extensions → Apps Script**.
 2. Remove the sample code and paste the contents of `google-apps-script.gs`.
-3. Click **Save** and name the project `The Digit Analysis Lead Capture`.
+3. Click **Save** and name the project `Digit Decode Lead Capture`.
 4. Select **Deploy → New deployment**.
 5. Select the gear icon / deployment type **Web app**.
 6. Set **Execute as: Me**.
