@@ -1,4 +1,4 @@
-# The Digit Analysis — Homepage v3
+# Digit Decode — Homepage v3
 
 Updated homepage with:
 - Larger portrait in the hero

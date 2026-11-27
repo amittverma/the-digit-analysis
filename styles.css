@@ -12,3 +12,21 @@
 @media(max-width:1100px){.hero{padding-right:43%}.hero-art{right:0;width:45%}}
 @media(max-width:760px){.hero{padding:40px 22px 320px;min-height:760px}.hero-art{top:auto;bottom:0;transform:none;width:100%;height:320px}.photo,.geometry{display:none}.contact{padding:48px 20px}.contact form{width:100%}}
 @media(max-width:430px){.hero{padding-bottom:285px;min-height:710px}.hero-art{height:285px}}
+
+/* Version 8: branded colour icons for homepage contact links */
+.headlinks .contact-link{display:inline-flex;align-items:center;gap:5px;text-decoration:none}
+.headlinks .contact-link svg{width:16px;height:16px;display:block;flex:0 0 16px}
+.headlinks .email-link svg{color:#b48722}
+.headlinks .whatsapp-link svg{color:#159b58}
+.headlinks .instagram-link svg{color:#bd477d}
+.headlinks .facebook-link svg{color:#1877f2}
+.headlinks .contact-link:hover{filter:brightness(.9)}
+@media(max-width:900px){.headlinks .contact-link{gap:4px}.headlinks .contact-link svg{width:15px;height:15px;flex-basis:15px}}
+
+/* Fix: keep footer social/contact SVG icons compact, matching text size */
+footer .contact-link{display:inline-flex;align-items:center;gap:7px;max-width:max-content}
+footer .contact-link svg{display:inline-block;width:16px!important;height:16px!important;min-width:16px;max-width:16px;flex:0 0 16px;vertical-align:middle}
+footer .contact-link.email-link svg{color:#d6ad45}
+footer .contact-link.whatsapp-link svg{color:#25D366}
+footer .contact-link.instagram-link svg{color:#E4405F}
+footer .contact-link.facebook-link svg{color:#1877F2}

@@ -1,0 +1,295 @@
+.order-page{background:#faf9fb}.order-header{display:flex;justify-content:space-between;align-items:center;padding:13px 7%;background:#fff}.back-home{color:#56306b;text-decoration:none;font-size:13px;font-weight:700}.order-main{max-width:1120px;margin:auto;padding:0 24px 50px}.order-intro{text-align:center;padding:55px 15px 30px}.order-intro h1{font:700 clamp(36px,5vw,54px)/1.08 'Playfair Display';color:#32134b;margin:12px 0}.order-intro h1 em{color:#b38419;font-style:normal}.order-intro p{max-width:650px;margin:0 auto;color:#6b6171}.intro-points{display:flex;justify-content:center;gap:22px;flex-wrap:wrap;margin-top:20px;color:#715b7d;font-size:12px}.stepper{display:flex;align-items:center;justify-content:center;gap:12px;margin:15px auto 25px;max-width:650px}.stepper>i{height:1px;background:#ddd2e4;flex:1}.step{display:flex;align-items:center;gap:8px;color:#93889a;font-size:12px;font-weight:600;white-space:nowrap}.step b{width:29px;height:29px;border-radius:50%;display:grid;place-items:center;border:1px solid #d9cfe0;background:#fff}.step.active{color:#4b2063}.step.active b,.step.done b{background:#4b2063;color:#fff;border-color:#4b2063}.order-panel{display:none;background:#fff;border:1px solid #e9e2ed;border-radius:18px;padding:30px;box-shadow:0 12px 35px #32134b0b}.order-panel.active-panel{display:block}.panel-heading{display:flex;justify-content:space-between;align-items:center;margin-bottom:24px}.panel-heading h2{font:700 30px 'Playfair Display';color:#32134b;margin:4px 0}.panel-heading p{margin:0;color:#746a7b;font-size:13px}.selection-count{background:#f3edf7;color:#58336d;padding:8px 13px;border-radius:30px;font-size:12px;font-weight:700}.report-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:13px}.report-option{border:1px solid #e8e0ec;border-radius:13px;padding:17px;display:flex;gap:13px;align-items:flex-start;cursor:pointer;transition:.2s}.report-option:has(input:checked){border-color:#8558a0;background:#faf6fc;box-shadow:0 0 0 2px #8558a018}.report-option input{accent-color:#572576;width:18px;height:18px;margin-top:4px}.report-option h3{font:700 17px 'Playfair Display';color:#392348;margin:0 0 5px}.report-option p{font-size:12px;color:#827889;margin:0}.weight{display:inline-block;margin-top:9px;font-size:10px;font-weight:700;letter-spacing:.5px;color:#8a6b20;background:#f8f2e3;padding:4px 8px;border-radius:20px}.consult-card{margin-top:22px;padding:20px;border:1px solid #e4d7a9;border-radius:14px;background:linear-gradient(110deg,#fffdf7,#faf7ff);display:flex;align-items:center;gap:16px}.consult-icon{width:45px;height:45px;flex:0 0 45px;border-radius:50%;display:grid;place-items:center;background:#f5e8bd;color:#9b7418;font-size:22px}.consult-copy{flex:1}.premium-label{font-size:9px;letter-spacing:1.5px;color:#98721c;font-weight:700}.consult-copy h3{font:700 18px 'Playfair Display';color:#3a2545;margin:4px 0}.consult-copy p{font-size:12px;color:#766b7b;margin:0 0 7px}.consult-copy strong{font-size:16px;color:#7c5b12}.switch-wrap{display:flex;align-items:center;gap:8px;font-size:11px;font-weight:700;color:#50325e;white-space:nowrap}.switch-wrap input{position:absolute;opacity:0}.switch{width:36px;height:20px;border-radius:20px;background:#cfc7d4;position:relative}.switch:after{content:'';position:absolute;width:14px;height:14px;border-radius:50%;background:#fff;top:3px;left:3px;transition:.2s}.switch-wrap input:checked+.switch{background:#5c2a75}.switch-wrap input:checked+.switch:after{left:19px}.informational{margin:14px 0}.informational details{border-bottom:1px solid #eee8f1;padding:10px 2px}.informational summary{font-size:12px;color:#61377a;font-weight:700;cursor:pointer}.informational p{font-size:12px;color:#786d7d}.price-note,.total-review{margin-top:18px;padding:16px 18px;background:#f7f4f9;border-radius:12px;display:grid;grid-template-columns:1fr auto;gap:4px 12px;align-items:center}.price-note span,.total-review span{font-weight:700;color:#4b3457;font-size:13px}.price-note strong,.total-review strong{color:#32134b;font:700 20px 'Playfair Display'}.price-note small,.total-review small{grid-column:1/-1;color:#847a89;font-size:10px}.panel-actions{display:flex;align-items:center;justify-content:flex-end;gap:10px;margin-top:22px;flex-wrap:wrap}.panel-actions .btn{margin:0;cursor:pointer}.validation{margin-right:auto;color:#b42318;font-size:11px}.form-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:17px}.form-grid label{display:grid;gap:6px;color:#493653;font-size:12px;font-weight:700}.form-grid label em{color:#b42318;font-style:normal;display:inline}.form-grid input,.form-grid select{width:100%;padding:12px;border:1px solid #ded5e4;border-radius:8px;background:#fff;font:14px 'DM Sans';color:#382a40}.form-grid input:focus,.form-grid select:focus{outline:2px solid #d8c4e4;border-color:#8456a0}.form-grid small{font-size:10px;color:#877d8b;font-weight:400}.conditional-area,.delivery-area{margin-top:25px;padding:18px;border:1px solid #ebe4ef;border-radius:12px}.conditional-area h3,.delivery-area h3,.review-card h3,.disclaimer h3{font:700 18px 'Playfair Display';color:#3b2548;margin:0 0 7px}.conditional-area>p{font-size:12px;color:#7c7182;margin:0}.compatibility-chip{margin-top:10px;padding:12px;background:#faf7fc;border:1px dashed #cdbbd8;border-radius:8px;font-size:12px;color:#5d3b70}.radio-cards{display:flex;gap:10px;flex-wrap:wrap;margin-top:13px}.radio-cards label{cursor:pointer}.radio-cards input{position:absolute;opacity:0}.radio-cards span{display:flex;align-items:center;gap:8px;border:1px solid #e5dce9;border-radius:9px;padding:11px 15px;font-size:12px;color:#574363}.radio-cards b{color:#8c6a1c}.radio-cards input:checked+span{border-color:#82539b;background:#faf6fc}.review-card{padding:18px 0;border-bottom:1px solid #eee8f1}.review-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}.review-item small{display:block;color:#8a7f8f;font-size:10px}.review-item strong{font-size:13px;color:#44334d;overflow-wrap:anywhere}.review-line{display:flex;justify-content:space-between;gap:15px;padding:7px 0;font-size:12px;color:#5f5268}.review-line b{color:#3b2947;text-align:right}.disclaimer{margin-top:20px;padding:18px;background:#fbf9fc;border-left:3px solid #c39b37;border-radius:8px}.disclaimer p{font-size:11px;line-height:1.75;color:#766b7b;margin:8px 0 0}.consent{display:flex;align-items:flex-start;gap:10px;margin-top:20px;font-size:12px;color:#55475e}.consent input{accent-color:#54246e;margin-top:3px}.consent a{color:#63357b;font-weight:700}.prototype-note{text-align:right;font-size:10px;color:#948a98;margin:12px 0 0}.order-footer{display:flex;align-items:center;gap:18px;flex-wrap:wrap;padding:25px 5px;color:#796d80;font-size:11px}.order-footer b{color:#46245b;letter-spacing:.5px}.order-footer a{color:#65377c;text-decoration:none;font-weight:700}.order-footer span{margin-right:auto}.order-footer:before{content:'';height:1px;background:#e8e0ec;flex-basis:100%;order:-1}.btn:disabled{opacity:.5;cursor:not-allowed}
+@media(max-width:700px){.order-main{padding:0 14px 30px}.order-intro{padding:38px 5px 24px}.order-intro h1{font-size:38px}.intro-points{gap:8px 14px;font-size:10px}.stepper{gap:6px}.step{gap:5px;font-size:10px}.step b{width:25px;height:25px}.order-panel{padding:19px 15px}.panel-heading{align-items:flex-start;gap:10px}.panel-heading h2{font-size:25px}.report-grid,.form-grid,.review-grid{grid-template-columns:1fr}.consult-card{align-items:flex-start;flex-wrap:wrap}.consult-copy{min-width:calc(100% - 65px)}.switch-wrap{margin-left:60px}.panel-actions{justify-content:space-between}.validation{flex-basis:100%;order:3}.order-footer{gap:10px}.order-footer span{flex-basis:100%;order:2}.back-home{font-size:11px}}
+
+/* Updated report selection and premium consultation design */
+.report-option{min-height:132px;padding:18px;gap:13px;position:relative}
+.report-option.locked-report{border-color:#8558a0;background:linear-gradient(115deg,#faf6fc,#fff);box-shadow:inset 0 0 0 1px #8558a022;cursor:not-allowed}
+.report-option input:disabled{opacity:1;cursor:not-allowed}
+.report-content{display:block;flex:1;min-width:0}
+.report-title-row{display:flex;align-items:center;gap:10px;margin-bottom:5px}
+.report-title-row h3{margin:0}
+.report-icon{width:32px;height:32px;flex:0 0 32px;border-radius:10px;display:grid;place-items:center;background:#f2ebf7;color:#5b2b73;font-size:19px;font-weight:700}
+.report-meta{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;margin-top:10px}
+.report-price{font-size:15px;color:#32134b;font-weight:700}
+.required-note{display:block;margin-top:7px;color:#6c3b80;font-size:10px;font-weight:700;letter-spacing:.2px}
+.weight{margin-top:0}
+.consultation-premium{margin-top:25px;padding:23px;border:1px solid #d8bd73;border-radius:18px;background:radial-gradient(circle at 95% 0%,#f3eafa 0,transparent 42%),linear-gradient(120deg,#fffdf7,#fff 55%,#fbf7ff);box-shadow:0 12px 30px #4c2a5d12}
+.consult-topline{display:flex;align-items:center;gap:15px;margin-bottom:18px}
+.consult-star{width:54px;height:54px;flex:0 0 54px;display:grid;place-items:center;border-radius:50%;background:#f7e9bc;color:#997018;font-size:28px;box-shadow:0 0 0 6px #f7e9bc55}
+.consult-topline h3{font:700 22px 'Playfair Display';color:#3a2545;margin:4px 0}
+.consult-topline p{font-size:13px;color:#766b7b;margin:0}
+.consult-trigger{display:flex;align-items:center;gap:14px;padding:17px 18px;border:1.5px solid #d8c58e;border-radius:13px;background:#fff;cursor:pointer;transition:.2s}
+.consult-trigger:has(input:checked){border-color:#67357f;background:#faf6fc;box-shadow:0 0 0 3px #67357f14}
+.consult-trigger input{position:absolute;opacity:0;pointer-events:none}
+.big-check{width:27px;height:27px;flex:0 0 27px;border:2px solid #a99ab0;border-radius:7px;display:grid;place-items:center;color:transparent;font-weight:800}
+.consult-trigger input:checked+.big-check{background:#5b2b73;border-color:#5b2b73;color:white}
+.consult-trigger>span:nth-of-type(2){display:grid;gap:4px;flex:1}
+.consult-trigger strong{color:#40264f;font-size:15px}
+.consult-trigger small{color:#7d7182;font-size:11px;line-height:1.5}
+.trigger-price{white-space:nowrap;color:#916a12;font-size:15px}
+.consultation-types{margin:16px 0 0 41px}
+.consultation-types>p{margin:0 0 10px;color:#594465;font-size:12px;font-weight:700}
+.consult-type-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.consult-type{display:flex;align-items:center;gap:10px;padding:14px;border:1px solid #e6dce9;border-radius:12px;background:#fff;cursor:pointer}
+.consult-type.selected{border-color:#80539a;background:#faf6fc;box-shadow:0 0 0 2px #80539a18}
+.consult-type input{position:absolute;opacity:0}
+.type-icon{width:35px;height:35px;display:grid;place-items:center;border-radius:10px;background:#f2ebf7;color:#5b2b73;font-size:18px}
+.consult-type span:nth-of-type(2){display:grid;gap:3px;flex:1}
+.consult-type strong{font-size:12px;color:#40264f}
+.consult-type small{font-size:10px;color:#827889}
+.consult-type>b{font-size:13px;color:#8c6816;white-space:nowrap}
+.consult-note{display:block;margin-top:10px;color:#7d7182;font-size:11px}
+.price-note{border:1px solid #e8deef}
+@media(max-width:700px){
+ .report-option{min-height:unset;padding:15px}
+ .report-title-row h3{font-size:16px}
+ .consultation-premium{padding:17px}
+ .consult-topline{align-items:flex-start}
+ .consult-topline h3{font-size:19px}
+ .consult-trigger{align-items:flex-start;flex-wrap:wrap;padding:14px}
+ .trigger-price{margin-left:41px}
+ .consultation-types{margin-left:0}
+ .consult-type-grid{grid-template-columns:1fr}
+}
+
+/* Conditional report-specific detail forms based on supplied screenshots */
+.extra-section{margin-top:15px;padding:17px;border:1px solid #e7deeb;border-radius:11px;background:#fff}
+.extra-section h4{margin:0 0 14px;font:700 16px 'Playfair Display';color:#40264f}
+.extra-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.extra-field{display:grid;gap:6px;color:#5a4963;font-size:12px;font-weight:600}
+.extra-field input{width:100%;min-width:0;padding:11px 12px;border:1px solid #ded5e4;border-radius:8px;background:#fff;font:14px 'DM Sans';color:#382a40}
+.extra-field input:focus{outline:2px solid #d8c4e4;border-color:#8456a0}
+.extra-field input[aria-invalid="true"]{border-color:#b42318}
+.review-subsection{grid-column:1/-1;padding:12px;margin-top:7px;border:1px solid #eee7f1;border-radius:9px}
+.review-subsection>strong{display:block;margin-bottom:10px;color:#56306b;font-size:12px}
+@media(max-width:900px){.extra-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.extra-grid{grid-template-columns:1fr}.extra-section{padding:13px}}
+
+/* Version 4 refinements: reports first, compact intro, offer and persistent action */
+.compact-intro{padding:20px 10px 17px;text-align:left;max-width:100%;margin:0 auto}
+.compact-intro h1{font-size:clamp(27px,3.2vw,38px);margin:5px 0 6px;color:#32134b}
+.compact-intro p{max-width:none;margin:0;color:#6b6171;font-size:13px}
+.compact-intro .eyebrow{font-size:10px}
+.quick-offer{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:13px;padding:10px 14px;border:1px solid #e7d5a0;border-radius:10px;background:linear-gradient(100deg,#fffaf0,#fff);color:#59415f;font-size:12px}
+.offer-tag{font-size:9px;letter-spacing:1px;font-weight:800;color:#8a6717;background:#f8edcb;border-radius:20px;padding:5px 9px}
+.quick-offer strong{font-size:15px;color:#6a3a7d}
+.quick-offer span:last-child{color:#746a7b}
+.consult-star{font-size:0!important}
+.consult-star:before{content:'♕';font-family:Georgia,serif;font-size:30px;color:#997018}
+.consult-topline{margin-bottom:15px}
+.consultation-premium{margin-top:18px}
+.consult-topics{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:7px 22px;margin:12px 0 4px;padding-left:20px;color:#62546a;font-size:12px}
+.informational details[open]{padding-bottom:12px}
+.order-footer{background:#32134b;color:#f6effb;margin:25px -24px 0;padding:27px 30px;position:relative}
+.order-footer:before{background:#6b4b7d}
+.order-footer b{color:#fff}
+.order-footer span{color:#e8dff0}
+.order-footer a{color:#f4d98e}
+.sticky-order-bar{position:fixed;z-index:50;left:0;right:0;bottom:0;display:flex;align-items:center;justify-content:space-between;gap:15px;padding:10px max(18px,calc((100vw - 1120px)/2 + 24px));background:#fff;border-top:1px solid #e7ddeb;box-shadow:0 -7px 24px #32134b18}
+.sticky-total{display:grid;gap:1px}
+.sticky-total small{font-size:10px;color:#796d80}
+.sticky-total strong{font:700 19px 'Playfair Display';color:#32134b}
+.sticky-total span{font-size:10px;color:#6d477d}
+.sticky-order-bar .btn{min-width:190px;margin:0;cursor:pointer}
+.order-page{padding-bottom:82px}
+.panel-actions #toDetails{display:none}
+.discount-review-line{display:flex;justify-content:space-between;gap:12px;padding:8px 0;color:#39734c;font-size:12px;font-weight:700}
+.discount-review-line b{color:#39734c}
+@media(max-width:700px){
+ .compact-intro{padding:16px 3px}
+ .quick-offer{gap:7px;font-size:11px}
+ .consult-topics{grid-template-columns:1fr}
+ .order-footer{margin-left:-14px;margin-right:-14px;padding:22px 18px}
+ .sticky-order-bar{padding:9px 13px;gap:10px}
+ .sticky-order-bar .btn{min-width:145px;padding:12px 15px;font-size:12px}
+ .sticky-total strong{font-size:17px}
+}
+
+/* Version 5 visual refinements */
+.order-header{justify-content:flex-start;padding:14px 4%;min-height:78px}
+.order-brand{display:flex;align-items:center;gap:13px;text-decoration:none}
+.brand-portrait{width:58px;height:58px;border-radius:50%;object-fit:cover;border:2px solid #d9bd74;box-shadow:0 2px 8px #32134b18}
+.order-brand b{display:block;font:700 21px 'Playfair Display';letter-spacing:.4px;color:#32134b}
+.order-brand small{display:block;margin-top:3px;font-size:11px;letter-spacing:2px;font-weight:700;color:#9b7418}
+.compact-intro{padding-top:14px;padding-bottom:13px}
+.compact-intro h1{margin-top:3px}
+.quick-offer{margin-top:8px}
+.order-footer{padding-bottom:24px}
+.social-links{display:flex;align-items:center;gap:22px}
+.social-links a{display:inline-flex;align-items:center;gap:7px;color:#ffe39a!important;font-weight:700}
+.social-icon{width:23px;height:23px;border-radius:6px;display:inline-grid;place-items:center;font-size:16px;font-weight:800;background:#fff;color:#32134b}
+.instagram-icon{border-radius:7px;font-size:19px}
+.facebook-icon{font-family:Arial,sans-serif;font-size:19px}
+.delivery-promise{flex-basis:100%;margin:9px 0 0;padding-top:13px;border-top:1px solid #765a85;color:#f4eefa;font-size:12px;line-height:1.6}
+.delivery-promise strong{color:#ffe39a}
+.sticky-total strong{font:700 18px 'DM Sans',sans-serif;color:#32134b}
+.total-review strong{font:700 16px 'DM Sans',sans-serif;color:#32134b}
+.report-price{font:700 15px 'DM Sans',sans-serif}
+.order-page .stepper{display:none}
+.order-page .price-note{display:none}
+@media(max-width:700px){
+ .order-header{padding:11px 15px;min-height:68px}
+ .brand-portrait{width:48px;height:48px}
+ .order-brand b{font-size:18px}
+ .order-brand small{font-size:9px;letter-spacing:1.5px}
+ .order-footer .social-links{flex-basis:100%;gap:17px}
+ .delivery-promise{font-size:11px}
+}
+
+/* Version 6 copy and form-label refinements */
+.field-label{display:inline-flex;align-items:baseline;gap:4px;min-height:1.2em;line-height:1.3}
+.field-label em{display:inline!important;color:#b42318;font-style:normal;font-weight:700}
+.form-grid label,.extra-field{align-content:start}
+.form-grid label{display:flex;flex-direction:column;gap:6px}
+.extra-field{display:flex;flex-direction:column;gap:6px}
+.delivery-note{margin:13px 0 0;padding:10px 13px;border-left:3px solid #c5a04b;background:#fbf8f0;border-radius:0 8px 8px 0;color:#66566d;font-size:12px;line-height:1.55}
+.delivery-note strong{color:#4c2a63;white-space:nowrap}
+
+/* Version 7: dropdown, offer and proceeding acknowledgement */
+.numerology-understanding{margin:16px 0;padding:14px 16px;border:1px solid #d9c5e5;border-left:4px solid #6b3b80;border-radius:10px;background:linear-gradient(100deg,#f8f2fb,#fffaf0);color:#574763;font-size:12px;line-height:1.6}
+.numerology-understanding strong{display:block;margin-bottom:4px;color:#48235f;font-size:13px}
+.numerology-understanding a{color:#5c2c75;font-weight:700;text-decoration:underline}
+
+/* Version 8: no policy links until published policies exist */
+.numerology-understanding a{display:none}
+
+/* One-page checkout layout */
+.order-page .order-panel{display:block!important;margin:0 0 22px;padding:24px;border:1px solid #e8deef;border-radius:18px;background:#fff;box-shadow:0 5px 20px #32134b08}
+.order-page .order-panel[data-panel]{display:block!important}
+.order-page .panel-heading{margin-bottom:18px}
+.order-page .panel-heading h2{font-size:24px;margin:0 0 5px}
+.order-page .form-grid{margin-top:8px}
+.order-page .conditional-area{margin-top:24px}
+.order-page .delivery-area{margin-top:22px}
+.order-page .onepage-summary{margin-bottom:35px}
+.order-page .review-card{margin:12px 0;padding:15px 17px;border:1px solid #eee7f1;border-radius:12px;background:#fff}
+.order-page .review-card h3{margin:0 0 10px;font-size:15px;color:#48235f}
+.order-page .total-review{margin-top:15px}
+.order-page .sticky-order-bar{z-index:100}
+.order-page .sticky-order-bar .btn{min-width:170px}
+.order-page .delivery-note{margin-top:15px}
+.order-page .consultation-premium{margin-top:22px}
+.order-page .quick-offer{margin-top:10px}
+.order-page .order-main{padding-bottom:35px}
+.order-page .order-footer{margin-top:22px}
+.order-page .panel-actions{display:none!important}
+.order-page .order-panel[data-panel="3"]{display:block!important}
+.order-page .order-panel[data-panel="2"]{display:block!important}
+.order-page .order-panel[data-panel="1"]{display:block!important}
+@media(max-width:700px){
+ .order-page .order-panel{padding:16px;margin-bottom:15px}
+ .order-page .panel-heading h2{font-size:21px}
+ .order-page .sticky-order-bar .btn{min-width:130px}
+}
+
+/* Version 2: compact report cards, four delivery choices and payment confirmation */
+.order-page .report-grid{gap:12px}
+.order-page .report-option{min-height:112px;padding:13px 15px;gap:10px;border-radius:13px}
+.order-page .report-title-row{gap:8px;margin-bottom:3px}
+.order-page .report-title-row h3{font-size:16px;line-height:1.25}
+.order-page .report-icon{width:29px;height:29px;flex-basis:29px;font-size:16px;border-radius:9px}
+.order-page .report-option p{margin:4px 0 6px;font-size:11px;line-height:1.4}
+.order-page .report-meta{margin-top:5px}
+.order-page .report-price{font-size:14px}
+.order-page .required-note{margin-top:4px;font-size:9px}
+.order-page .delivery-area .radio-cards{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
+.order-page .delivery-area .radio-cards label{min-width:0}
+.order-page .social-icon{width:26px;height:26px;display:inline-grid;place-items:center}
+.order-page .social-icon svg{width:19px;height:19px;display:block}
+.order-page .instagram-icon{background:#fff;color:#9b397b}
+.order-page .facebook-icon{background:#fff;color:#1877f2}
+.payment-confirmation[hidden]{display:none!important}
+.payment-confirmation{position:fixed;inset:0;z-index:300;display:grid;place-items:center;padding:18px;background:rgba(25,12,34,.58);backdrop-filter:blur(4px)}
+.payment-confirmation-card{position:relative;width:min(100%,470px);padding:30px 28px 25px;border:1px solid #e4d3a5;border-radius:20px;background:linear-gradient(145deg,#fffdf8,#fff 56%,#faf5fc);box-shadow:0 24px 80px #160b2550;text-align:center}
+.modal-close{position:absolute;top:10px;right:14px;width:34px;height:34px;border:0;border-radius:50%;background:#f2edf4;color:#50345e;font-size:24px;cursor:pointer}
+.modal-offer-icon{width:52px;height:52px;margin:0 auto 12px;display:grid;place-items:center;border-radius:50%;background:#f8edcb;color:#9a741c;font-size:27px}
+.modal-eyebrow{margin:0 0 6px;color:#98701a;font-size:10px;font-weight:800;letter-spacing:1.8px}
+.payment-confirmation-card h2{margin:0 0 10px;color:#32134b;font:700 25px 'Playfair Display',serif}
+.payment-confirmation-card>p:not(.modal-eyebrow){margin:0 auto 18px;max-width:370px;color:#6f6476;font-size:13px;line-height:1.6}
+.modal-total-row{display:flex;align-items:center;justify-content:space-between;margin:0 0 18px;padding:13px 15px;border:1px solid #e8deef;border-radius:11px;background:#f8f4fa;color:#51445b;font-size:13px}
+.modal-total-row strong{color:#32134b;font:700 19px 'DM Sans',sans-serif}
+.modal-actions{display:grid;gap:9px}
+.modal-actions .btn{width:100%;margin:0;min-height:46px}
+.modal-actions .outline{border:1px solid #d8c8df;background:#fff;color:#59376b}
+body.modal-open{overflow:hidden}
+@media(max-width:700px){
+ .order-page .report-grid{gap:9px}
+ .order-page .report-option{min-height:105px;padding:11px}
+ .order-page .report-title-row h3{font-size:14px}
+ .order-page .report-option p{font-size:10px}
+ .order-page .delivery-area .radio-cards{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .payment-confirmation-card{padding:27px 19px 20px}
+ .payment-confirmation-card h2{font-size:22px}
+}
+
+/* Version 3: streamlined basic details and expandable additional report fields */
+.order-page .extra-time-note{margin:0 0 12px;color:#75677d;font-size:12px;line-height:1.55}
+.order-page .extra-section{margin:9px 0;padding:0;border:1px solid #e8deef;border-radius:11px;background:#fff;overflow:hidden}
+.order-page .extra-section>summary{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:13px 15px;cursor:pointer;list-style:none;color:#45265a;font-weight:700;font-size:14px}
+.order-page .extra-section>summary::-webkit-details-marker{display:none}
+.order-page .extra-section>summary:after{content:'+';display:grid;place-items:center;width:25px;height:25px;flex:0 0 25px;border-radius:50%;background:#f3edf7;color:#5d3374;font-size:19px;font-weight:500}
+.order-page .extra-section[open]>summary:after{content:'−'}
+.order-page .extra-section>summary small{margin-left:auto;color:#887990;font-size:10px;font-weight:500;white-space:nowrap}
+.order-page .extra-section[open] .extra-grid{padding:0 15px 15px}
+.order-page .extra-field input[aria-invalid="true"],.order-page input[aria-invalid="true"]{border-color:#b42318}
+.order-page .form-grid label small{display:block;color:#8a7b91;font-size:10px;font-weight:400}
+.order-page .review-card{margin-top:10px}
+.order-page .numerology-understanding{margin-top:15px}
+@media(max-width:700px){
+ .order-page .extra-section>summary{padding:12px;font-size:13px}
+ .order-page .extra-section>summary small{font-size:9px}
+}
+
+/* Version 4: compact selected-report checkbox beside each expandable details heading */
+.order-page .extra-section>summary{justify-content:space-between}
+.order-page .extra-summary-left{display:flex;align-items:center;gap:10px;min-width:0}
+.order-page .extra-summary-left input[type="checkbox"]{width:16px;height:16px;flex:0 0 16px;margin:0;accent-color:#5d2b78;opacity:1}
+.order-page .extra-section>summary small{margin-left:auto}
+
+/* Version 5: single-line report picker rows */
+.order-page .report-grid{display:grid;grid-template-columns:1fr;gap:8px}
+.order-page .report-option.report-row{display:flex;flex-direction:row;align-items:center;gap:13px;min-height:62px;padding:10px 16px;border:1px solid #e8e0ec;border-radius:11px}
+.order-page .report-option.report-row input{flex:0 0 18px;width:18px;height:18px;margin:0;accent-color:#572576}
+.order-page .report-option.report-row .report-icon{width:32px;height:32px;flex:0 0 32px;margin:0}
+.order-page .report-option.report-row .report-name{flex:1;min-width:0;color:#392348;font:700 16px 'Playfair Display',serif;line-height:1.25}
+.order-page .report-option.report-row .report-name small{display:block;margin-top:3px;color:#6c3b80;font:600 10px 'DM Sans',sans-serif;letter-spacing:.15px}
+.order-page .report-option.report-row .report-price{flex:0 0 auto;margin-left:auto;font:700 15px 'DM Sans',sans-serif;white-space:nowrap;color:#32134b}
+.order-page .report-option.report-row:has(input:checked){border-color:#8558a0;background:#faf6fc;box-shadow:0 0 0 1px #8558a018}
+.order-page .report-option.report-row.locked-report{cursor:default}
+@media(max-width:520px){
+ .order-page .report-option.report-row{gap:9px;min-height:56px;padding:9px 10px}
+ .order-page .report-option.report-row .report-icon{width:28px;height:28px;flex-basis:28px;font-size:16px}
+ .order-page .report-option.report-row .report-name{font-size:14px}
+ .order-page .report-option.report-row .report-price{font-size:13px}
+}
+
+/* Version 7: Digit Decode branding and linked home header */
+.order-page .order-brand{display:flex;align-items:center;gap:13px;text-decoration:none;cursor:pointer}
+.order-page .order-brand:hover{opacity:.94}
+.order-page .order-brand b{display:block}
+.order-page .order-brand small{display:block}
+.order-page .delivery-whatsapp-icon{display:inline-flex;align-items:center;justify-content:center;color:#218c54!important}
+.order-page .delivery-whatsapp-icon svg{width:17px;height:17px;display:block}
+
+/* Version 8: clear, softly coloured delivery icons */
+.order-page .delivery-area .radio-cards label>span{display:flex;align-items:center;gap:9px}
+.order-page .delivery-area .delivery-icon{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;flex:0 0 22px;background:transparent!important}
+.order-page .delivery-area .delivery-icon svg{display:block;width:20px;height:20px}
+.order-page .delivery-area .any-icon{color:#bd8b20!important}
+.order-page .delivery-area .email-icon{color:#9a6a16!important}
+.order-page .delivery-area .whatsapp-icon{color:#159b58!important}
+.order-page .delivery-area .both-icon{color:#76509a!important}
+
+/* Version 10: meaningful, softly coloured report and video-call icons */
+.order-page .report-option.report-row .report-icon{display:inline-flex;align-items:center;justify-content:center;background:#f3edf8;border-radius:11px}
+.order-page .report-option.report-row .report-icon svg{display:block;width:21px;height:21px}
+.order-page .report-option.report-row:has([data-report="dob"]) .report-icon{color:#9b6a13;background:#fbf1d9}
+.order-page .report-option.report-row:has([data-report="mobile"]) .report-icon{color:#2875b8;background:#e9f3fc}
+.order-page .report-option.report-row:has([data-report="name"]) .report-icon{color:#b66a31;background:#fff0e4}
+.order-page .report-option.report-row:has([data-report="business"]) .report-icon{color:#397b62;background:#e8f4ed}
+.order-page .report-option.report-row:has([data-report="love"]) .report-icon{color:#c14e78;background:#fbeaf0}
+.order-page .report-option.report-row:has([data-report="marriage"]) .report-icon{color:#9164ad;background:#f2eafb}
+.order-page .report-option.report-row:has([data-report="child"]) .report-icon{color:#bd8a2a;background:#fbf3dc}
+.order-page .consult-type .type-icon{display:inline-flex;align-items:center;justify-content:center}
+.order-page .consult-type .video-call-icon{color:#3984c6;background:#eaf3fc;border-radius:10px;width:34px;height:34px}
+.order-page .consult-type .video-call-icon svg{display:block;width:21px;height:21px}
